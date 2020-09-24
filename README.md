@@ -13,3 +13,5 @@ Thus you need to:
 3. Commit the new `.sql` file and push it to the repo to turn in the assignment. 
 
 You probably want to first go through the [tutorial.md](tutorial.md) file, which runs you through a tutorial on how to A) run a Postgres server B) connect to a Postgres server C) write SQL queries to create databases and tables and D) write those queries into a file and run that file against a server. 
+
+Please make sure the file works!! You can do that by running all the queries in the file against your Postgres server and ensuring that it gets everything set up the way you want. Details in the tutoral about how to do that. 
